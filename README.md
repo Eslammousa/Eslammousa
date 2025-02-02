@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eslam Mousa</h1>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Backend Developer;" />
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Eslammousa&label=Profile%20views&color=0e75b6&style=flat" alt="Eslammousa"/> </p>
+</p> 
 
 -  **I am studying computer science at Zagazig University**
 -  **I am currently learning ASP.Net Core**
