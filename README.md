@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eslam Mousa</h1>
-<h3 align="center">Backend Developer</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Backend Developer;" />
+</div>
 
 -  **I am studying computer science at Zagazig University**
 -  **I am currently learning ASP.Net Core**
