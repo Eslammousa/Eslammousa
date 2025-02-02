@@ -13,7 +13,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=40669&format=png" alt="c++" width="45" height="45"/> </a> &ensp; 
-  <a href="https://www.python.org/" target="_blank"> <img src="static/img/python-logo.png&format=png" alt="python" width="45" height="45"/> </a> &ensp; 
+  <a href="https://www.python.org/py/" target="_blank"> <img src="static/img/python-logo.png&format=png" alt="python" width="45" height="45"/> </a> &ensp; 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=55251&format=png" alt="C#" width="45" height="45"/> </a> &ensp;
   <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank"> <img src="https://img.icons8.com/?size=154&id=1BC75jFEBED6&format=png" alt=".Net" width="45" height="45"/> </a> &ensp;
   <a href="https://learn.microsoft.com/en-us/sql/sql-server" target="_blank"> <img src="https://img.icons8.com/?size=80&id=UFF3hmipmJ2V&format=png" alt="SqlServer" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
