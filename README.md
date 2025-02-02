@@ -6,11 +6,10 @@
 
 </p> 
 ## 🚀 About Me
--  **I am studying computer science at Zagazig University**
--  **I am currently learning ASP.Net Core**
+-  I am studying computer science at Zagazig University
+-  I am currently learning ASP.Net Core**
 
 - 📫 How to reach me **eslamomer5678@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
