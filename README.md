@@ -5,7 +5,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Eslammousa&label=Profile%20views&color=0e75b6&style=flat" alt="Eslammousa"/> </p>
 
 </p> 
-<h3 align="left">Aboute me :</h3>
+
 - **I am studying computer science at Zagazig University**
 - **I am currently learning ASP.Net Core**
 - 📫 **How to reach me eslamomer5678@gmail.com**
