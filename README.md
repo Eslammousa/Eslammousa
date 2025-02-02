@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eslam Mousa</h1>
 <h3 align="center">Backend Developer</h3>
 
-- dddddd **I am studying computer science at Zagazig University**
+-  **I am studying computer science at Zagazig University**
 
-- ddd **dd**
 
-- 🤝 I’m looking for help with **ddda**
+
 
 - 📫 How to reach me **eslamomer5678@gmail.com**
 
