@@ -20,6 +20,7 @@
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=63777&format=png" alt="github" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
  <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" alt="github" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
   <a href="https://www.docker.com//" target="_blank"> <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="github" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
+  <a href="https://wa.me/0201023184606"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
   
 </p> 
