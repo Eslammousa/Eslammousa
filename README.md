@@ -2,9 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 -  **I am studying computer science at Zagazig University**
-
-
-
+-  **I am currently learning ASP.Net Core**
 
 - 📫 How to reach me **eslamomer5678@gmail.com**
 
